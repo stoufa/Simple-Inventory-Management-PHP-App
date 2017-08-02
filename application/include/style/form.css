@@ -1,0 +1,32 @@
+fieldset {
+  width:350px;
+  background-color:#CCC;
+  margin-bottom:10px;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  -o-border-radius:5px;
+  border-radius:5px;
+  padding:15px;
+}
+
+fieldset legend {
+  font-weight:bold;
+  background-color:#AAA;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  -o-border-radius:5px;
+  border-radius:5px;
+  padding:3px;
+  border:1px solid #000;
+}
+
+label {
+  float:left;
+  width:150px;
+  text-align:right;
+  margin-right:10px;
+}
+
+fieldset div {
+  margin-bottom:2px;
+}

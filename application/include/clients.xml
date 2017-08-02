@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<clients>
+<client>
+<id>6</id>
+<nom>c3</nom>
+</client>
+<client>
+<id>5</id>
+<nom>c2</nom>
+</client>
+<client>
+<id>4</id>
+<nom>c1</nom>
+</client>
+</clients>

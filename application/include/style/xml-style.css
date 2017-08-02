@@ -1,0 +1,34 @@
+articles, gadgets, gammes {
+	background-color: #ffffff;
+	width: 100%;
+}
+
+article, gadget, gamme {
+	display: block;
+	margin-top: 5pt;
+	margin-left: 10pt;
+	border-radius: 3px;
+	padding:3px;
+}
+
+id, id_gamme, id_article, nom, 
+nom_gamme, nom_article, nom_court {
+	display: inline-block;
+	color: #000000;
+	margin-left: 5pt;
+	text-decoration: underline;
+}
+
+article:nth-child(even), 
+gadget:nth-child(even), 
+gamme:nth-child(even) {
+	/*background-color: rgba(255, 153, 0, .8);*/
+	background-color: rgba(160, 160, 160, .8);
+}
+
+article:nth-child(odd), 
+gadget:nth-child(odd), 
+gamme:nth-child(odd) {
+	/*background-color: rgba(255, 204, 51, .8);*/
+	background-color: rgba(192, 192, 192, .8);
+}
