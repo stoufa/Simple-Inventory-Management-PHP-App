@@ -12,4 +12,8 @@ Le fichier adwya.sql crée les différentes tables de la base de données nommé
 ainsi que les différentes contraintes ( clés primaires et étrangéres ) et ajoute deux utilisateurs pour des raisons de test :
   l'utilisateur `a` ( administrateur ) et l'utilisateur `b` ( utilisateur régulier : Il n'a pas le droit de modifier ou supprimer les données )
   
-Le dossier application/ contient l'application alors que le dossier screenshots/ contient des captures d'écran de l'application
+Le dossier `application/` contient l'application alors que le dossier `screenshots/` contient des captures d'écran de l'application
+
+
+![screenshot](https://raw.githubusercontent.com/stoufa/simple-gestion-stock-php/master/screenshots/1.png)
+
