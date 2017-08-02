@@ -10,6 +10,6 @@ Cette application est faite au cours d'un stage d'été qui a eu lieu pendant le
 
 Le fichier adwya.sql crée les différentes tables de la base de données nommée `adwya` utilisées par l'application
 ainsi que les différentes contraintes ( clés primaires et étrangéres ) et ajoute deux utilisateurs pour des raisons de test :
-  l'utilisateur `a` ( administrateur ) et l'utilisateur `b` ( utilisateur régulier )
+  l'utilisateur `a` ( administrateur ) et l'utilisateur `b` ( utilisateur régulier : Il n'a pas le droit de modifier ou supprimer les données )
   
-  
+Le dossier application/ contient l'application alors que le dossier screenshots/ contient des captures d'écran de l'application

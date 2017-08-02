@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xml>
 <gammes>
+<gamme>
+<id>3</id>
+<nom>gamme3</nom>
+<nom_court>g3</nom_court>
+</gamme>
+<gamme>
+<id>2</id>
+<nom>gamme2</nom>
+<nom_court>g2</nom_court>
+</gamme>
+<gamme>
+<id>1</id>
+<nom>gamme1</nom>
+<nom_court>g1</nom_court>
+</gamme>
 </gammes>
