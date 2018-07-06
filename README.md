@@ -15,5 +15,7 @@ ainsi que les différentes contraintes ( clés primaires et étrangéres ) et aj
 Le dossier `application/` contient l'application alors que le dossier `screenshots/` contient des captures d'écran de l'application
 
 
-![screenshot](https://raw.githubusercontent.com/stoufa/simple-gestion-stock-php/master/screenshots/1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stoufa/simple-gestion-stock-php/master/screenshots/1.png" alt="screenshot"/>
+</p>
 
